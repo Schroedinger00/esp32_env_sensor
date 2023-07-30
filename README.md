@@ -8,11 +8,18 @@ This is a Simple Arduino Code.
 The Following Libraries are needed:
 
 Adafruit_Sensor
+
 Adafruit_BMP280
+
 Adafruit_SGP30
+
 SparkFunHTU21D or Adafruit HTU21D
+
 TaskScheduler
+
 ThingSpeak
+
 WiFi
+
 Wire
 
