@@ -15,7 +15,7 @@ Adafruit_BMP280
 
 Adafruit_SGP30
 
-SparkFunHTU21D or Adafruit HTU21D
+SparkFunHTU21D
 
 TaskScheduler
 
