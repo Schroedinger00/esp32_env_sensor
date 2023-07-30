@@ -1,5 +1,5 @@
 # esp32_env_sensor
-An ESP32 Environment Sensor, Created for a University Project on the "Hochschule Düsseldorf for Applied Sciences"
+An ESP32 Environment Sensor, Created for a University Project at the "Hochschule Düsseldorf for Applied Sciences"
 
 There may be sporadic Updates to the Code, but its improbable.
 
